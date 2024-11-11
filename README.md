@@ -1,1 +1,1 @@
-# This repository represent the Inky Ponky Activity in java
+# This repository represent the Inky Ponky Activity in java.
